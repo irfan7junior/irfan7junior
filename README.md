@@ -55,6 +55,6 @@
 
 [website]: https://irfan7junior.in/resume
 [twitter]: https://twitter.com/irfan7junior
-[youtube]: https://youtube.com/irfan7junior
+[youtube]: https://youtube.com/mdirfan548
 [instagram]: https://instagram.com/irfan7junior
 [linkedin]: https://linkedin.com/in/irfan7junior
