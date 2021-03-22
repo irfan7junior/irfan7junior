@@ -11,10 +11,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play and watch football!
 
----
-
-:zap: GitHub Stats
-
 <a href="https://github.com/irfan7junior">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan7junior&show_icons=true&include_all_commits=true&count_private=true">
 </a>
