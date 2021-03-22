@@ -13,10 +13,10 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
 <a href="https://github.com/irfan7junior">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan7junior&show_icons=true&include_all_commits=true&theme=dark&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan7junior&show_icons=true&include_all_commits=true&count_private=true">
 </a>
 
 ---
