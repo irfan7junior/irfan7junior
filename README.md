@@ -1,15 +1,25 @@
-### Hi there, I'm Irfan - aka [i7j][website] 👋
+### Hi there, I'm Irfan - aka [irfan7junior][website] 👋
 
 [![Website](https://img.shields.io/website?label=irfan7junior.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://irfan7junior.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/irfan7junior?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/irfan7junior)
 
 ## I'm a Learner, Developer, and a Madridista!
 
-- 🔭 I just launched my first [Portfolio Website!][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🔭 launched my first [Portfolio Website!][website]
+- 🌱 currently learning vociferously
+- 👯 looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play and watch football!
+
+---
+
+<summary>:zap: GitHub Stats</summary>
+
+<a href="https://github.com/irfan7junior">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan7junior&show_icons=true&include_all_commits=true&theme=dark&count_private=true">
+</a>
+
+---
 
 ### Connect with me:
 
@@ -48,10 +58,6 @@
 <br />
 
 ---
-
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=irfan7junior&show_icons=true&hide_border=true" />
 
 [website]: https://irfan7junior.in/resume
 [twitter]: https://twitter.com/irfan7junior
